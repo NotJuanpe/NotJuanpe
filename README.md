@@ -1,6 +1,5 @@
 ### Hello There 👋
 
-<!--
 Hola mi nombre es Juan Pedro Actualmente soy un estudiante de Ingenieria en Computacion en 
 UNTREF.
 
@@ -10,4 +9,3 @@ Actualmente me encuentro haciendo proyectos orientados al Web Development y auto
 Y proximamente van a haber repositorios orientados a JS y Python.
 
 
--->
